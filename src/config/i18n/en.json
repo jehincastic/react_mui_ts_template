@@ -1,0 +1,13 @@
+{
+	"translation": {
+		"signUp": "Sign Up",
+		"firstName": "First Name",
+		"lastName": "Last Name",
+		"emailId": "Email ID",
+		"password": "Password",
+		"mobileNumber": "Mobile Number",
+		"code": "Code",
+		"termsAndConditions": "I agree with the Terms and conditions",
+		"onboarding": "User Onboarding Image"
+	}
+}
